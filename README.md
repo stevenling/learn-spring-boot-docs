@@ -7,7 +7,7 @@
 
 ## 目录
 
-1. [Spring Boot 使用 Mybatis-Plus](docs\Spring Boot 使用 Mybatis-Plus.md)
+1. [Spring Boot 使用 Mybatis-Plus](docs/Spring%20Boot%20使用%20Mybatis-Plus.md)
 
 2. [MyBatis-Plus 实现增删改查操作](docs\MyBatis-Plus 实现增删改查操作.md)
 
