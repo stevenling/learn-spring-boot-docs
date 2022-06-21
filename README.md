@@ -18,3 +18,5 @@
 5. [Spring Boot 配置登录拦截](docs/Spring%20Boot%20配置登录拦截.md)
 
 6. [MyBatis Plus 使用 Service 接口进行增删改查](docs/MyBatis%20Plus%20使用%20Service%20接口进行增删改查.md)
+
+7. [Spring Boot 配置 JWT](docs/Spring%20Boot%20配置%20JWT.md)
